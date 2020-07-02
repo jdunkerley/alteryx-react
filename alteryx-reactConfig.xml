@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<AlteryxJavaScriptPlugin>
+  <EngineSettings EngineDll="Python" EngineDllEntryPoint="alteryx-react.py" SDKVersion="10.1" />
+  <GuiSettings Html="build/index.html" Icon="build/logo192.png" SDKVersion="10.1">
+    <InputConnections>
+    </InputConnections>
+    <OutputConnections>
+    </OutputConnections>
+  </GuiSettings>
+   <Properties>
+    <MetaInfo>
+      <Name>Alteryx React</Name>
+      <Description>Hello World Tool in React</Description>
+      <CategoryName>Developer</CategoryName>
+      <SearchTags></SearchTags>
+    </MetaInfo>
+  </Properties>
+</AlteryxJavaScriptPlugin>
